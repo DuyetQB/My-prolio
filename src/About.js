@@ -6,7 +6,7 @@ class About extends React.Component {
        return (
           <div>
              <h1>About...Me</h1>
-             <img src="https://images.unsplash.com/photo-1615752823823-f8972ae05834?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
+             <img src="https://images.unsplash.com/photo-1615752823823-f8972ae05834?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="about" />
           <div style={{padding:"10px"}}>
              <p>
                 Hi there . My name is Duyet . I come from a small village . It's belong to Phong Nha Ke Bang area.
